@@ -66,7 +66,7 @@ Page({
    
 
     wx.request({
-      url: getApp().globalData.host + `/api/v1/users/1`,
+      url: getApp().globalData.host + `/api/v1/users/${user_id}`,
       // `/api/v1/users/${user_id}`,
       method: 'GET',
       success(res) {

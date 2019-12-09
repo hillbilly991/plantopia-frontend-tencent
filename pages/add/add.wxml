@@ -12,8 +12,7 @@
 
       <view class="desc">Description</view>
       <input name="description" class="entry" placeholder="About your plant" />
-          <view class="desc">Water Frequency</view>
-      <input name="water_frequency" class="entry" placeholder="Every {{plant.water_freq_avg}} days" />
+          <view class="desc">Water Frequency: Every {{plant.water_freq_avg}} days</view>
 
     
         <view class="entry">

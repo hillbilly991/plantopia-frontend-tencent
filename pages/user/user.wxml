@@ -13,9 +13,9 @@
   <view class="user-info">
     <view class="user-information">
 
-      <view class="card">
+      <!-- <view class="card">
         <view class="btn btn-plant" href="#"><text class="fas fa-tint"></text><text class="texto">Email reminder</text></view>
-      </view>
+      </view> -->
 
 
       
@@ -25,10 +25,10 @@
 
       </view>
 
-      <view class="card">
+      <!-- <view class="card">
         <view class="btn btn-plant" href="#">  <text class="fas fa-leaf"></text><text class="texto">My plants</text>
-      </view>
-    </view>
+      </view> -->
+    <!-- </view> -->
   
   </view>
 </view>

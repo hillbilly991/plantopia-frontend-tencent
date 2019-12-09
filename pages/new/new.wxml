@@ -5,15 +5,15 @@
 
    <form bindsubmit="formSubmit" class="form-container">
       <view class="desc">Nickname</view>
-                <input class="entry" name="nickname" placeholder="Your plant deserve a name of her own.."/>
+                <input class="entry" name="nickname" placeholder="Your plant deserves a name of her own"/>
            
 
-            <view class="desc">Latin name</view>
+            <view class="desc">Latin Name</view>
                 <input class="entry" name="name" placeholder="if you know.."/>
             
 
-               <view class="desc">Water frequency</view>
-                <input class="entry" name="water_freq_avg" placeholder="watering every how many days ."/>
+               <view class="desc">Water Frequency</view>
+                <input class="entry" name="water_freq_avg" placeholder="Watering schedule per days"/>
            
     
 
