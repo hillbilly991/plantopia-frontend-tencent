@@ -43,14 +43,7 @@
             "iconPath": "img/camera-new.png",
             "selectedIconPath": "img/camera-new.png",
             "text": "Scan"
-          },
-        {
-          "pagePath": "pages/user/user",
-          "iconPath": "img/user-new.png",
-          "selectedIconPath": "img/user-new.png",
-          "text": "User"
-        }
-     
+          }
       ]
     },
   "style": "v2",
